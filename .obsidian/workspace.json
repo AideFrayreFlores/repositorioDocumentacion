@@ -97,82 +97,152 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "README"
             }
           },
           {
-            "id": "79a0f39f099cd4de",
+            "id": "a9d9c34a789ff4fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01-General Skills/6. Obedient Cat.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Obedient Cat"
+              "title": "README"
             }
           },
           {
-            "id": "4a54f726a78f2d37",
+            "id": "f84d47c4db7382e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01-General Skills/6. Obedient Cat.md",
+                "file": "picoCTF/01-General Skills/20. First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Obedient Cat"
+              "title": "20. First Find"
             }
           },
           {
-            "id": "3973cc884ac92651",
+            "id": "ba497b17be9ade98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01-General Skills/10. Nice netcat....md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Nice netcat..."
+              "title": "README"
             }
           },
           {
-            "id": "d2f6a9ba74fc0805",
+            "id": "61d9934c8a8b6fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01-General Skills/09. Glitch Cat.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09. Glitch Cat"
+              "title": "README"
             }
           },
           {
-            "id": "32e3757954414a15",
+            "id": "b3de4cbe74e17e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "README"
+            }
+          },
+          {
+            "id": "e2896e4636122a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "6528146e78d50934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "b7200e3d5e981c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "bf849b5c6a6da65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "a22f589771959025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -190,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -337,23 +407,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "32e3757954414a15",
+  "active": "a22f589771959025",
   "lastOpenFiles": [
+    "picoCTF/01-General Skills/20. First Find.md",
+    "picoCTF/01-General Skills/19.  Big Zip.md",
+    "picoCTF/01-General Skills/18. repetitions.md",
     "README.md",
-    "Sin título.md",
+    "picoCTF/01-General Skills/17. Magikarp Ground Mission.md",
+    "picoCTF/01-General Skills/16. Tab, Tab, Attack.md",
+    "picoCTF/01-General Skills/15. useless.md",
+    "picoCTF/01-General Skills/14. Static ain't always noise.md",
     "plantilla.md",
-    "Sin título 2.md",
-    "Sin título 1.md",
+    "picoCTF/01-General Skills/13. Wave a flag.md",
+    "picoCTF/01-General Skills/12. strings it.md",
+    "picoCTF/01-General Skills/11. Based.md",
+    "picoCTF/01-General Skills/05. First Grep.md",
+    "picoCTF/01-General Skills/07. whats a net cat.md",
+    "picoCTF/01-General Skills/09. Glitch Cat.md",
+    "picoCTF/01-General Skills/04. Bases.md",
+    "picoCTF/01-General Skills/6. Obedient Cat.md",
+    "picoCTF/01-General Skills/08. plumbing.md",
     "picoCTF/01-General Skills/10. Nice netcat....md",
+    "picoCTF/01-General Skills/03. Warmed Up.md",
     "picoCTF/01-General Skills/01. lets warm up.md",
     "picoCTF/01-General Skills/02. 2warm.md",
-    "picoCTF/01-General Skills/09. Glitch Cat.md",
-    "picoCTF/01-General Skills/08. plumbing.md",
-    "picoCTF/01-General Skills/07. whats a net cat.md",
-    "picoCTF/01-General Skills/6. Obedient Cat.md",
-    "picoCTF/01-General Skills/05. First Grep.md",
-    "picoCTF/01-General Skills/04. Bases.md",
-    "picoCTF/01-General Skills/03. Warmed Up.md",
+    "Sin título.md",
+    "Sin título 2.md",
     "Bienvenido.md",
     "picoCTF/01-General Skills",
     "Sin nombre",
