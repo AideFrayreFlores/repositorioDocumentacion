@@ -335,7 +335,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27. PW Crack 1.md",
+                "file": "picoCTF/01-General Skills/27. PW Crack 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30. Serpentine.md",
+                "file": "picoCTF/01-General Skills/30. Serpentine.md",
                 "mode": "source",
                 "source": false
               },
@@ -547,13 +547,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2175a54945d6cd07",
+  "active": "c156982c7aacbafa",
   "lastOpenFiles": [
     "README.md",
-    "30. Serpentine.md",
-    "29. PW Crack 3.md",
-    "28. PW Crack 2.md",
-    "27. PW Crack 1.md",
+    "picoCTF/01-General Skills/30. Serpentine.md",
+    "picoCTF/01-General Skills/29. PW Crack 3.md",
+    "picoCTF/01-General Skills/28. PW Crack 2.md",
+    "picoCTF/01-General Skills/27. PW Crack 1.md",
     "picoCTF/01-General Skills/03. Warmed Up.md",
     "picoCTF/01-General Skills/11. Based.md",
     "picoCTF/01-General Skills/20. First Find.md",
@@ -562,12 +562,12 @@
     "picoCTF/01-General Skills/16. Tab, Tab, Attack.md",
     "picoCTF/01-General Skills/17. Magikarp Ground Mission.md",
     "picoCTF/01-General Skills/18. repetitions.md",
-    "26. fixme2.py.md",
-    "25. fixme1.py.md",
-    "24. convertme.py.md",
-    "23. Codebook.md",
-    "22. runme.py.md",
-    "21. Super SSH.md",
+    "picoCTF/01-General Skills/26. fixme2.py.md",
+    "picoCTF/01-General Skills/25. fixme1.py.md",
+    "picoCTF/01-General Skills/24. convertme.py.md",
+    "picoCTF/01-General Skills/23. Codebook.md",
+    "picoCTF/01-General Skills/22. runme.py.md",
+    "picoCTF/01-General Skills/21. Super SSH.md",
     "picoCTF/01-General Skills/06. Obedient Cat.md",
     "picoCTF/01-General Skills/19.  Big Zip.md",
     "plantilla.md",
