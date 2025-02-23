@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b29a0547c8108527",
+            "id": "f910c3e01c80e598",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,77 +22,7 @@
             }
           },
           {
-            "id": "05d0fbb6619af38a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/2warm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2warm"
-            }
-          },
-          {
-            "id": "d0f405c3badd0366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/01. lets warm up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01. lets warm up"
-            }
-          },
-          {
-            "id": "e56e4c9781916fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/08. plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08. plumbing"
-            }
-          },
-          {
-            "id": "d52021ffdd3ea0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/08. plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08. plumbing"
-            }
-          },
-          {
-            "id": "451e3437349d16a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/04. Bases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04. Bases"
-            }
-          },
-          {
-            "id": "d5c95ec693845dc7",
+            "id": "dc85eb77b6993837",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +36,7 @@
             }
           },
           {
-            "id": "a9d9c34a789ff4fe",
+            "id": "5ccd39be400969a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,21 +50,7 @@
             }
           },
           {
-            "id": "f84d47c4db7382e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/20. First Find.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20. First Find"
-            }
-          },
-          {
-            "id": "ba497b17be9ade98",
+            "id": "18661a4bcc451816",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,7 +64,7 @@
             }
           },
           {
-            "id": "61d9934c8a8b6fb3",
+            "id": "c124d0261a987d22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +78,7 @@
             }
           },
           {
-            "id": "b3de4cbe74e17e3d",
+            "id": "a2ee1344eac7ddd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,7 +92,7 @@
             }
           },
           {
-            "id": "e2896e4636122a4e",
+            "id": "ec4e34da8bfdf492",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,7 +106,7 @@
             }
           },
           {
-            "id": "6528146e78d50934",
+            "id": "01c7d105800c7c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,185 +120,17 @@
             }
           },
           {
-            "id": "b7200e3d5e981c07",
+            "id": "054b755735821ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/01-General Skills/31. Permissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "bf849b5c6a6da65b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "a22f589771959025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "fa0ca4706a0602a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "be82bb5f67fa4a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "02a7b842c258bf22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b786ae171748544c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "4178136fee750984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8232723f72433938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b60215af408c8ed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/27. PW Crack 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "27. PW Crack 1"
-            }
-          },
-          {
-            "id": "c813b1a0a4c1c2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "91851e3c91da4a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "2175a54945d6cd07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/30. Serpentine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "30. Serpentine"
+              "title": "31. Permissions"
             }
           },
           {
@@ -400,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -547,34 +295,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c156982c7aacbafa",
+  "active": "01c7d105800c7c9c",
   "lastOpenFiles": [
+    "Sin título.md",
+    "picoCTF/01-General Skills/31. Permissions.md",
+    "picoCTF/01-General Skills/36. Blame Game.md",
+    "picoCTF/01-General Skills/35. Time Machine.md",
+    "picoCTF/01-General Skills/34. Commitment Issues.md",
+    "picoCTF/01-General Skills/33. Special.md",
+    "picoCTF/01-General Skills/32. Chrono.md",
+    "picoCTF/01-General Skills/40. ASCII Numbers.md",
+    "picoCTF/01-General Skills/01. lets warm up.md",
+    "picoCTF/01-General Skills/39. binhexa.md",
     "README.md",
+    "picoCTF/01-General Skills/38. Binary Search.md",
+    "picoCTF/01-General Skills/37. Collaborative Development.md",
+    "picoCTF/01-General Skills/20. First Find.md",
+    "picoCTF/01-General Skills/04. Bases.md",
+    "picoCTF/01-General Skills/08. plumbing.md",
+    "picoCTF/01-General Skills/27. PW Crack 1.md",
     "picoCTF/01-General Skills/30. Serpentine.md",
     "picoCTF/01-General Skills/29. PW Crack 3.md",
     "picoCTF/01-General Skills/28. PW Crack 2.md",
-    "picoCTF/01-General Skills/27. PW Crack 1.md",
     "picoCTF/01-General Skills/03. Warmed Up.md",
     "picoCTF/01-General Skills/11. Based.md",
-    "picoCTF/01-General Skills/20. First Find.md",
     "picoCTF/01-General Skills/14. Static ain't always noise.md",
     "picoCTF/01-General Skills/15. useless.md",
     "picoCTF/01-General Skills/16. Tab, Tab, Attack.md",
     "picoCTF/01-General Skills/17. Magikarp Ground Mission.md",
-    "picoCTF/01-General Skills/18. repetitions.md",
-    "picoCTF/01-General Skills/26. fixme2.py.md",
-    "picoCTF/01-General Skills/25. fixme1.py.md",
-    "picoCTF/01-General Skills/24. convertme.py.md",
-    "picoCTF/01-General Skills/23. Codebook.md",
-    "picoCTF/01-General Skills/22. runme.py.md",
-    "picoCTF/01-General Skills/21. Super SSH.md",
-    "picoCTF/01-General Skills/06. Obedient Cat.md",
-    "picoCTF/01-General Skills/19.  Big Zip.md",
-    "plantilla.md",
-    "picoCTF/01-General Skills/13. Wave a flag.md",
-    "picoCTF/01-General Skills/12. strings it.md",
-    "picoCTF/01-General Skills/05. First Grep.md",
-    "picoCTF/01-General Skills/07. whats a net cat.md",
     "picoCTF/01-General Skills",
     "Sin nombre",
     "picoCTF",

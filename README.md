@@ -42,6 +42,16 @@
 * 29. PW Crack 3
 * 30. Serpentine
 
-
+-------------------------
+* 31. Permissions
+* 32. chrono
+* 33. Special
+* 34. Commitment Issues
+* 35. Time Machine
+* 36. Blame Game
+* 37. Collaborative Development
+* 38. Binary Search
+* 39. binhexa
+* 40. ASCII Numbers
 
 Cs5zDYE1Q
