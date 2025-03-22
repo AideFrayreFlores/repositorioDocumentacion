@@ -120,6 +120,130 @@
             }
           },
           {
+            "id": "ec0c60b9c06b4fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01-General Skills/21. Super SSH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21. Super SSH"
+            }
+          },
+          {
+            "id": "8f8edc12dd1aa8f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "819ba578715448a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/02-picoCTF-Web/01. Insp3ct0r.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Insp3ct0r"
+            }
+          },
+          {
+            "id": "078fc9150c455a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "72fff6dcfb5feafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/02-picoCTF-Web/03. logon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. logon"
+            }
+          },
+          {
+            "id": "d76b35904ae7bc31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "f3acb089a65a0a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/02-picoCTF-Web/04. dont-use-client-side.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04. dont-use-client-side"
+            }
+          },
+          {
+            "id": "cace152517f53d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/02-picoCTF-Web/05. picobrowser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. picobrowser"
+            }
+          },
+          {
+            "id": "4d6c173eb4354db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
             "id": "054b755735821ee1",
             "type": "leaf",
             "state": {
@@ -148,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -295,36 +419,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "01c7d105800c7c9c",
+  "active": "4d6c173eb4354db2",
   "lastOpenFiles": [
-    "Sin título.md",
-    "picoCTF/01-General Skills/31. Permissions.md",
-    "picoCTF/01-General Skills/36. Blame Game.md",
-    "picoCTF/01-General Skills/35. Time Machine.md",
-    "picoCTF/01-General Skills/34. Commitment Issues.md",
-    "picoCTF/01-General Skills/33. Special.md",
-    "picoCTF/01-General Skills/32. Chrono.md",
-    "picoCTF/01-General Skills/40. ASCII Numbers.md",
-    "picoCTF/01-General Skills/01. lets warm up.md",
-    "picoCTF/01-General Skills/39. binhexa.md",
+    "picoCTF/02-picoCTF-Web/06. Client-side-again.md",
+    "picoCTF/02-picoCTF-Web/05. picobrowser.md",
+    "picoCTF/02-picoCTF-Web/04. dont-use-client-side.md",
+    "picoCTF/02-picoCTF-Web/03. logon.md",
+    "picoCTF/02-picoCTF-Web/02. where are the robots.md",
+    "picoCTF/02-picoCTF-Web/01. Insp3ct0r.md",
     "README.md",
-    "picoCTF/01-General Skills/38. Binary Search.md",
-    "picoCTF/01-General Skills/37. Collaborative Development.md",
-    "picoCTF/01-General Skills/20. First Find.md",
-    "picoCTF/01-General Skills/04. Bases.md",
-    "picoCTF/01-General Skills/08. plumbing.md",
-    "picoCTF/01-General Skills/27. PW Crack 1.md",
-    "picoCTF/01-General Skills/30. Serpentine.md",
-    "picoCTF/01-General Skills/29. PW Crack 3.md",
-    "picoCTF/01-General Skills/28. PW Crack 2.md",
-    "picoCTF/01-General Skills/03. Warmed Up.md",
-    "picoCTF/01-General Skills/11. Based.md",
-    "picoCTF/01-General Skills/14. Static ain't always noise.md",
-    "picoCTF/01-General Skills/15. useless.md",
-    "picoCTF/01-General Skills/16. Tab, Tab, Attack.md",
+    "FANTASY CTF.md",
+    "Sin título 3.md",
+    "Sin título.md",
+    "plantilla.md",
+    "picoCTF/01-General Skills/01. lets warm up.md",
+    "picoCTF/02-picoCTF-Web",
+    "picoCTF/01-General Skills/39. binhexa.md",
     "picoCTF/01-General Skills/17. Magikarp Ground Mission.md",
+    "picoCTF/01-General Skills/20. First Find.md",
+    "picoCTF/01-General Skills/19.  Big Zip.md",
+    "picoCTF/01-General Skills/18. repetitions.md",
+    "picoCTF/01-General Skills/16. Tab, Tab, Attack.md",
+    "picoCTF/01-General Skills/15. useless.md",
+    "picoCTF/01-General Skills/14. Static ain't always noise.md",
+    "picoCTF/01-General Skills/13. Wave a flag.md",
+    "picoCTF/01-General Skills/12. strings it.md",
+    "picoCTF/01-General Skills/11. Based.md",
+    "picoCTF/01-General Skills/10. Nice netcat....md",
+    "picoCTF/01-General Skills/09. Glitch Cat.md",
+    "picoCTF/01-General Skills/08. plumbing.md",
     "picoCTF/01-General Skills",
-    "Sin nombre",
     "picoCTF",
     "Sin título.canvas"
   ]

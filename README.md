@@ -53,5 +53,14 @@
 * 38. Binary Search
 * 39. binhexa
 * 40. ASCII Numbers
+----------
+# picoCTF Web 1
+
+* 01.  Insp3ct0r
+* 02. where are the robots
+* 03. logon
+* 04. dont-use-client-side
+* 05. picobrowser
+* 06. Client-side-again
 
 Cs5zDYE1Q
