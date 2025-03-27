@@ -62,5 +62,10 @@
 * 04. dont-use-client-side
 * 05. picobrowser
 * 06. Client-side-again
+________________
+* 07. GET aHEAD
+* 08. Cookies
+* 09. Scavenger Hunt
+
 
 Cs5zDYE1Q
