@@ -66,6 +66,9 @@ ________________
 * 07. GET aHEAD
 * 08. Cookies
 * 09. Scavenger Hunt
-
+___________
+* 10. Irish-Name-Repo 1
+* 11. More SQLi
+* 12. JaWT Scratchpad
 
 Cs5zDYE1Q

