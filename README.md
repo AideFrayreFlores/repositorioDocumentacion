@@ -70,5 +70,14 @@ ___________
 * 10. Irish-Name-Repo 1
 * 11. More SQLi
 * 12. JaWT Scratchpad
+______________
+* 13. MatchTheRegex
+_______________
+## Forensic 1
+* 1. Glory of the Garden
+* 2.  So Meta
+* 3. shark on wire 1
+* 4. extensions
+* What Lies Within
 
 Cs5zDYE1Q
