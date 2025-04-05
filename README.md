@@ -72,6 +72,9 @@ ___________
 * 12. JaWT Scratchpad
 ______________
 * 13. MatchTheRegex
+* 14. SOAP
+* 15. Most Cookies
+*  16. Trickster
 _______________
 ## Forensic 1
 * 1. Glory of the Garden

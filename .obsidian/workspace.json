@@ -272,9 +272,65 @@
               "icon": "lucide-file",
               "title": "05. What Lies Within"
             }
+          },
+          {
+            "id": "45c52fbc9fcf7e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/02-picoCTF-Web/13. MatchTheRegex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. MatchTheRegex"
+            }
+          },
+          {
+            "id": "c39f8661f7d81f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Re.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Re"
+            }
+          },
+          {
+            "id": "b71d4b67a9dea43e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/02-picoCTF-Web/15. Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. Most Cookies"
+            }
+          },
+          {
+            "id": "5e64f35d2ec54fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/02-picoCTF-Web/16. Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. Trickster"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -421,24 +477,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "79d631f867dde303",
+  "active": "5e64f35d2ec54fc2",
   "lastOpenFiles": [
-    "Sin título 1.md",
-    "picoCTF/03-Forensic 1/05. What Lies Within.md",
-    "picoCTF/03-Forensic 1/04. extensions.md",
     "README.md",
-    "13. MatchTheRegex.md",
+    "picoCTF/02-picoCTF-Web/16. Trickster.md",
+    "picoCTF/02-picoCTF-Web/15. Most Cookies.md",
+    "picoCTF/02-picoCTF-Web/14. SOAP.md",
+    "Re.md",
+    "picoCTF/02-picoCTF-Web/13. MatchTheRegex.md",
+    "picoCTF/02-picoCTF-Web/12. JaWT Scratchpad.md",
+    "picoCTF/02-picoCTF-Web/11. More SQLi.md",
+    "Sin título 2.md",
+    "picoCTF/03-Forensic 1/05. What Lies Within.md",
+    "Sin título 1.md",
+    "picoCTF/03-Forensic 1/04. extensions.md",
     "Sin título.md",
     "picoCTF/03-Forensic 1/03. shark on wire 1.md",
     "picoCTF/03-Forensic 1/02. So Meta.md",
     "picoCTF/03-Forensic 1/01. Glory of the Garden.md",
     "picoCTF/03-Forensic 1",
-    "14. SOAP.md",
     "13. Includes.md",
     "15. IntroToBurp.md",
     "14. Inspect HTML.md",
-    "picoCTF/02-picoCTF-Web/12. JaWT Scratchpad.md",
-    "picoCTF/02-picoCTF-Web/11. More SQLi.md",
     "picoCTF/02-picoCTF-Web/10. Irish-Name-Repo 1.md",
     "picoCTF/02-picoCTF-Web/09. Scavenger Hunt.md",
     "picoCTF/02-picoCTF-Web/08. Cookies.md",
@@ -446,10 +506,6 @@
     "GET aHEAD.md",
     "picoCTF/01-General Skills/08. plumbing.md",
     "picoCTF/01-General Skills/31. Permissions.md",
-    "picoCTF/02-picoCTF-Web/05. picobrowser.md",
-    "picoCTF/02-picoCTF-Web/04. dont-use-client-side.md",
-    "picoCTF/02-picoCTF-Web/03. logon.md",
-    "picoCTF/02-picoCTF-Web/01. Insp3ct0r.md",
     "picoCTF/02-picoCTF-Web",
     "picoCTF/01-General Skills",
     "picoCTF",
