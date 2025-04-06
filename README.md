@@ -54,7 +54,7 @@
 * 39. binhexa
 * 40. ASCII Numbers
 ----------
-# picoCTF Web 1
+## picoCTF Web 1
 
 * 01.  Insp3ct0r
 * 02. where are the robots
@@ -75,6 +75,18 @@ ______________
 * 14. SOAP
 * 15. Most Cookies
 *  16. Trickster
+_______________
+#### Tarea2.Retos web
+* 01. Includes
+* 02. Inspect HTML
+* 03. IntroToBurp
+* 04. Local Authority
+* 05. Power Cookie
+* 06. Roboto Sans
+* 07. Secrets
+* 08. SQLiLite
+* 09. Unminify
+* 10. WebDecode
 _______________
 ## Forensic 1
 * 1. Glory of the Garden

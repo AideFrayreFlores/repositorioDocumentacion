@@ -8,329 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73eeb4c18f7f0a27",
+            "id": "69273fae652c6595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01-General Skills/08. plumbing.md",
+                "file": "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/04. Local Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08. plumbing"
+              "title": "04. Local Authority"
             }
           },
           {
-            "id": "230092797b032e7e",
+            "id": "521cd8ea9aa15396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Cookies.md",
+                "file": "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/09. Unminify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. Cookies"
+              "title": "09. Unminify"
             }
           },
           {
-            "id": "54aee467e54e0976",
+            "id": "ebdf63fa4d17ac7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GET aHEAD.md",
+                "file": "e.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GET aHEAD"
+              "title": "e"
             }
           },
           {
-            "id": "08a7bbae6cf35ff3",
+            "id": "74401c199c538b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Cookies.md",
+                "file": "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/06. Roboto Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. Cookies"
+              "title": "06. Roboto Sans"
             }
           },
           {
-            "id": "f5259737cbab2c85",
+            "id": "cf38a0d544e6831f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/03. IntroToBurp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
-            }
-          },
-          {
-            "id": "9e1f2b081a4d1b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/02-picoCTF-Web/10. Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Irish-Name-Repo 1"
-            }
-          },
-          {
-            "id": "71d5505d53cb8e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/02-picoCTF-Web/11. More SQLi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. More SQLi"
-            }
-          },
-          {
-            "id": "5ea0220012dddd86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/02-picoCTF-Web/12. JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12. JaWT Scratchpad"
-            }
-          },
-          {
-            "id": "7d95ab923d32713a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. Includes"
-            }
-          },
-          {
-            "id": "1623a10052c05466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14. Inspect HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. Inspect HTML"
-            }
-          },
-          {
-            "id": "3d29ecc3c1de7f29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15. IntroToBurp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15. IntroToBurp"
-            }
-          },
-          {
-            "id": "165578dd71a8be9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título 1"
-            }
-          },
-          {
-            "id": "ebdc5d3c705caa1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. Includes"
-            }
-          },
-          {
-            "id": "6fc832cdf2ba6bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "403fd9b69f8c2f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03-Forensic 1/01. Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01. Glory of the Garden"
-            }
-          },
-          {
-            "id": "3985d8681f96fa34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03-Forensic 1/02. So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02. So Meta"
-            }
-          },
-          {
-            "id": "d2b18ed6bced946c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03-Forensic 1/03. shark on wire 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03. shark on wire 1"
-            }
-          },
-          {
-            "id": "051a71e12dda73ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03-Forensic 1/04. extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04. extensions"
-            }
-          },
-          {
-            "id": "79d631f867dde303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03-Forensic 1/05. What Lies Within.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05. What Lies Within"
-            }
-          },
-          {
-            "id": "45c52fbc9fcf7e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/02-picoCTF-Web/13. MatchTheRegex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. MatchTheRegex"
-            }
-          },
-          {
-            "id": "c39f8661f7d81f6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Re.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Re"
-            }
-          },
-          {
-            "id": "b71d4b67a9dea43e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/02-picoCTF-Web/15. Most Cookies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15. Most Cookies"
-            }
-          },
-          {
-            "id": "5e64f35d2ec54fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/02-picoCTF-Web/16. Trickster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16. Trickster"
+              "title": "03. IntroToBurp"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -477,35 +225,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5e64f35d2ec54fc2",
+  "active": "c156982c7aacbafa",
   "lastOpenFiles": [
     "README.md",
+    "Sin título.md",
+    "Sin título 1.md",
+    "Sin título 2.md",
+    "Sin título 3.md",
+    "03 IntroToBurp.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/10. WebDecode.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/09. Unminify.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/08. SQLiLite.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/07. Secrets.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/06. Roboto Sans.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/05. Power Cookie.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/04. Local Authority.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/03. IntroToBurp.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/02. Inspect HTML.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web/01. Includes.md",
+    "plantilla.md",
+    "e.md",
+    "picoCTF/02-picoCTF-Web/Tarea2. Retos Web",
     "picoCTF/02-picoCTF-Web/16. Trickster.md",
     "picoCTF/02-picoCTF-Web/15. Most Cookies.md",
-    "picoCTF/02-picoCTF-Web/14. SOAP.md",
-    "Re.md",
     "picoCTF/02-picoCTF-Web/13. MatchTheRegex.md",
-    "picoCTF/02-picoCTF-Web/12. JaWT Scratchpad.md",
-    "picoCTF/02-picoCTF-Web/11. More SQLi.md",
-    "Sin título 2.md",
-    "picoCTF/03-Forensic 1/05. What Lies Within.md",
-    "Sin título 1.md",
-    "picoCTF/03-Forensic 1/04. extensions.md",
-    "Sin título.md",
-    "picoCTF/03-Forensic 1/03. shark on wire 1.md",
-    "picoCTF/03-Forensic 1/02. So Meta.md",
     "picoCTF/03-Forensic 1/01. Glory of the Garden.md",
+    "picoCTF/03-Forensic 1/02. So Meta.md",
+    "picoCTF/03-Forensic 1/03. shark on wire 1.md",
+    "picoCTF/03-Forensic 1/04. extensions.md",
+    "picoCTF/03-Forensic 1/05. What Lies Within.md",
     "picoCTF/03-Forensic 1",
-    "13. Includes.md",
-    "15. IntroToBurp.md",
-    "14. Inspect HTML.md",
-    "picoCTF/02-picoCTF-Web/10. Irish-Name-Repo 1.md",
-    "picoCTF/02-picoCTF-Web/09. Scavenger Hunt.md",
-    "picoCTF/02-picoCTF-Web/08. Cookies.md",
-    "picoCTF/02-picoCTF-Web/07. GET aHEAD.md",
-    "GET aHEAD.md",
-    "picoCTF/01-General Skills/08. plumbing.md",
-    "picoCTF/01-General Skills/31. Permissions.md",
     "picoCTF/02-picoCTF-Web",
     "picoCTF/01-General Skills",
     "picoCTF",
