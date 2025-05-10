@@ -439,3 +439,20 @@ john hash -w=/urs/share/wordlist/rockyou.txt
 
 
 
+gen install zsteg
+
+
+
+mmls imagen
+fls imagen -o 411648
+fls imagen -o 411648 472
+
+iact imagen -o 411648 1782
+
+iact imagen -o 411648 1782 | file -
+
+iact imagen -o 411648 1782 > flaf.txt.enc
+
+iact  magen -o 411648 1875
+
+oppenssl aes256 -salt -d -in flac,enc -out flag,txt -c
