@@ -48,9 +48,149 @@
               "icon": "lucide-file",
               "title": "21.Operation Oni"
             }
+          },
+          {
+            "id": "3657558daca9f78b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22. information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22. information"
+            }
+          },
+          {
+            "id": "29a06e8e7b2db548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23. St3g0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23. St3g0"
+            }
+          },
+          {
+            "id": "bc5a93a33d3df0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24. Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24. Redaction gone wrong"
+            }
+          },
+          {
+            "id": "fb8911a0a67b6ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25. hideme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25. hideme"
+            }
+          },
+          {
+            "id": "edf68a4f09947661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26. Scan Surprise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26. Scan Surprise"
+            }
+          },
+          {
+            "id": "081ccd5ca3ae1b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27. CanYouSee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27. CanYouSee"
+            }
+          },
+          {
+            "id": "adc5546d4dadfacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28. Secret of the Polyglot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28. Secret of the Polyglot"
+            }
+          },
+          {
+            "id": "1498c28aa24c883f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "29. RED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29. RED"
+            }
+          },
+          {
+            "id": "2b0a0e1fb130f44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30. Ph4nt0m 1ntrud3r.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30. Ph4nt0m 1ntrud3r"
+            }
+          },
+          {
+            "id": "737f5156e6e802d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/03-Forensic 1/31. flags are stepic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31. flags are stepic"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -197,10 +337,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d4d98d7850581620",
+  "active": "737f5156e6e802d4",
   "lastOpenFiles": [
-    "fire detection YOI.md",
+    "picoCTF/03-Forensic 1/29. RED.md",
+    "picoCTF/03-Forensic 1/30. Ph4nt0m 1ntrud3r.md",
+    "picoCTF/03-Forensic 1/28. Secret of the Polyglot.md",
+    "picoCTF/03-Forensic 1/27. CanYouSee.md",
+    "picoCTF/03-Forensic 1/26. Scan Surprise.md",
+    "picoCTF/03-Forensic 1/25. hideme.md",
+    "picoCTF/03-Forensic 1/24. Redaction gone wrong.md",
+    "picoCTF/03-Forensic 1/23. St3g0.md",
+    "picoCTF/03-Forensic 1/22. information.md",
     "picoCTF/03-Forensic 1/21.Operation Oni.md",
+    "picoCTF/03-Forensic 1/31. flags are stepic.md",
+    "fire detection YOI.md",
     "picoCTF/03-Forensic 1/20. Operation Orchid.md",
     "picoCTF/03-Forensic 1/19. Sleuthkit Apprentice.md",
     "picoCTF/03-Forensic 1/18. Sleuthkit Intro.md",
@@ -215,16 +365,6 @@
     "picoCTF/Primer Parcial/Parte 2 - Web/01. Bookmarklet.md",
     "picoCTF/Primer Parcial/Parte 1 - General Skills/10. Specialer.md",
     "picoCTF/Primer Parcial/Parte 1 - General Skills/09. SansAlpha.md",
-    "picoCTF/Primer Parcial/Parte 1 - General Skills/08. flag_shop.md",
-    "picoCTF/03-Forensic 1/13. Matryoshka doll.md",
-    "picoCTF/Primer Parcial/Parte 2 - Web/10. WebSockFish.md",
-    "picoCTF/03-Forensic 1/14. tunn3l_v1s10n.md",
-    "picoCTF/03-Forensic 1/15. MacroHard WeakEdge.md",
-    "picoCTF/Primer Parcial/Parte 2 - Web/09. SSTI2.md",
-    "picoCTF/Primer Parcial/Parte 2 - Web/08. SQL Direct.md",
-    "picoCTF/Primer Parcial/Parte 2 - Web/07. Java Code Analysis!!.md",
-    "picoCTF/Primer Parcial/Parte 2 - Web/06. findme.md",
-    "picoCTF/03-Forensic 1/12. WebNet1.md",
     "picoCTF/Primer Parcial/Parte 2 - Web",
     "Sin nombre",
     "picoCTF/Primer Parcial/Parte 1 - General Skills",
